@@ -107,5 +107,5 @@ sleep 5
 # ------------------------
 
 echo starting platform
-cd /mattermost/mattermost/bin
+cd /mattermost/bin
 ./platform -config=/config_docker.json
